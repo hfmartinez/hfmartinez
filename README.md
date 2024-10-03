@@ -17,8 +17,8 @@
 
 | Social Media | Link                                      |
 |--------------|-------------------------------------------|
-| GitHub       | [Your GitHub](https://github.com/hfmartinez) |
-| LinkedIn     | [Your LinkedIn](https://linkedin.com/in/heberth-martinez)|
+| GitHub       | [GitHub](https://github.com/hfmartinez) |
+| LinkedIn     | [LinkedIn](https://linkedin.com/in/heberth-martinez)|
 
 ## 📊 GitHub Stats
 
