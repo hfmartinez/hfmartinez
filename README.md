@@ -2,12 +2,12 @@
 
 ## About Me
 
-🌟 I am a **Senior Software Developer** with over 5 years of experience, specializing in software development for **Fintech** and **Proptech** companies. Throughout my career, I have cultivated a robust skill set that allows me to tackle complex challenges and deliver high-quality solutions. My expertise lies in defining and implementing cloud architectures that not only meet business requirements but also enhance operational efficiency. I am dedicated to exceeding performance targets and constantly strive for innovation in my work. My analytical mindset enables me to approach problems strategically, while my leadership skills empower me to collaborate effectively with cross-functional teams. I am passionate about continuous learning, always seeking to stay updated with the latest technologies and best practices in the industry.
+🌟 I am a **Senior Software Developer** with over 5 years of experience in Fintech, Proptech, and the academic sector. I specialize in backend web development, firmware development, cloud computing, and container orchestration. Passionate about learning new programming languages, I focus on implementing cloud architectures that enhance operational efficiency. Committed to innovation and teaching, I collaborate effectively with cross-functional teams and always strive to exceed performance targets. I am continuously seeking ongoing learning to stay updated on the latest technologies and best practices in the industry.
 
 ### Key Skills
 
-- **Languages & Frameworks**: Python, Java, C++, C#, React, Angular
-- **Technologies**: Docker, Kubernetes, Vagrant, Cloud Computing
+- **Languages & Frameworks**: Python, Java, C++, C#, React, Angular, FastApi, Django, Flask, Spring Boot
+- **Technologies**: Docker, Kubernetes, Vagrant, Jenkins, ElasticSearch, Kibana, Logstash 
 
 📧 You can reach me at [heberthfabianmartinez@gmail.com](mailto:heberthfabianmartinez@gmail.com).
 
